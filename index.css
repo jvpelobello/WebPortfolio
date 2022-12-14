@@ -1,0 +1,71 @@
+html {
+	scroll-behavior: smooth
+}
+*{
+	font-family: 'Merriweather', serif;
+	font-size: 15px;
+	scroll-behavior: smooth;
+}
+
+.toolscon{
+	position: static;
+	
+}
+.navcolor{
+	color: red;
+
+}
+.font-nav1{
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.font-head1{
+	font-size: 1.5rem;
+
+}
+.font-headb{
+	font-size: 4.5rem;	
+
+}
+
+.font-headm{
+	font-size: 3rem;
+
+}
+
+.font-footer1{
+	font-size: 3rem;
+}
+
+.bgfooter1{
+	background-color: #372158;
+}
+.bgcolor1{
+	background-color: black;
+}
+
+.bgcolor2{
+	background-color: grey;
+}
+
+.navlogo1{
+	font-weight: Bold;
+	font-family: 'Zen Dots', cursive;
+	color: ff0000;
+	text-decoration: none;
+
+}
+
+.font-quote1{
+	font-style: italic;
+	font-size: 20px;
+}
+
+.contact-form1{
+	background-color: #1D6CBF;
+}
+
+.carouselfont{
+	font-weight: bold;
+}
