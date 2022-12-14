@@ -9,6 +9,7 @@ html {
 
 .toolscon{
 	position: static;
+	overflow: hidden;
 	
 }
 .navcolor{
